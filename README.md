@@ -1,5 +1,8 @@
 # LLM
 
+Very good systematical 
+https://www.bilibili.com/video/BV1BpPpecEGb?spm_id_from=333.788.videopod.episodes&vd_source=cf198fd29c292177b66bf59bc14ffebe&p=155
+
 Standford LLM Course
 https://stanford-cs324.github.io/winter2022/lectures/introduction/
 
